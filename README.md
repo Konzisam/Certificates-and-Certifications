@@ -1,3 +1,3 @@
-# certificates are always are goodway to encourage going forward.
+certificates are always are goodway to encourage going forward.
 
-Certifications prove proficienc in an area.
+Certifications prove proficiency in an area.
