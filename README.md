@@ -1,4 +1,4 @@
-Certificates are always are goodway to encourage going forward.
+Certificates are always are goodway of self reward for hard work.
 
 Certifications on the other prove proficiency in an area.
 
