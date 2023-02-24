@@ -9,6 +9,7 @@ sources:
       tables:
         - name: green_tripsdata
         - name: yellow_tripsdata
+        - name: fhv_trips_2019
          # freshness:
            # error_after: {count: 6, period: hour}
 models:
