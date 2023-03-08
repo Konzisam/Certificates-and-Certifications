@@ -1,2 +1,5 @@
-Dbt project new york bikes dataset
+
+This is the dbt repo for the Newyork taxi data pipeline.
+
+
 
